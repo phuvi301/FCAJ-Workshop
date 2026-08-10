@@ -39,6 +39,7 @@ CodExecute operates through the seamless integration of 8 core AWS services:
 <img src="/images/5-Workshop/5.1-Workshop-overview/project_overview.png" alt="CodExecute Webpage" style="width: 80%; max-width: 1100px; border-radius: 6px;">
 <p style="font-size: 1.15rem; font-weight: 600; margin-top: 8px;">
 <i>Figure 2: CodExecute Webpage</i></br>
+<i>Link webpage: </i><a target="blank" href="https://d1hsp5bm4hkjmb.cloudfront.net/">d1hsp5bm4hkjmb.cloudfront.net</a></br>
 <i>Link demo: </i><a target="blank" href="https://drive.google.com/file/d/15AeqXtTXdVslTlJy3HmrP7IP6lOOiFaS/view?usp=sharing">Click here</a>
 </p>
 

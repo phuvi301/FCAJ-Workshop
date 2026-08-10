@@ -39,6 +39,7 @@ Hệ thống CodExecute vận hành dựa trên sự phối hợp của 8 dịch
 <img src="/images/5-Workshop/5.1-Workshop-overview/project_overview.png" alt="Trang giao diện Web của CodExecute" style="width: 80%; max-width: 1100px; border-radius: 6px;">
 <p style="font-size: 1.15rem; font-weight: 600; margin-top: 8px;">
 <i>Trang giao diện Web của CodExecute</i></br>
+<i>Link trang web: </i><a target="blank" href="https://d1hsp5bm4hkjmb.cloudfront.net/">d1hsp5bm4hkjmb.cloudfront.net</a></br>
 <i>Link demo: </i><a target="blank" href="https://drive.google.com/file/d/15AeqXtTXdVslTlJy3HmrP7IP6lOOiFaS/view?usp=sharing">Bấm vào đây</a>
 </p>
 
